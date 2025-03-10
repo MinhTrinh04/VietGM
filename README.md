@@ -5,6 +5,7 @@ Khám phá hương vị Việt Nam đích thực! Vietgourmet là một cửa h�
 ## Giới thiệu
 
 Vietgourmet được xây dựng với mục tiêu chia sẻ nét đẹp ẩm thực Việt Nam đến với mọi người. Chúng tôi mong muốn mang đến trải nghiệm mua sắm trực tuyến thuận tiện và đáng tin cậy, để bạn có thể thưởng thức những món ngon truyền thống ngay tại nhà.
+
 ![VGM](https://github.com/user-attachments/assets/758e11ee-7006-4960-8d96-efb3a5a80818)
 
 ## Công nghệ sử dụng
