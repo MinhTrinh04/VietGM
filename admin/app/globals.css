@@ -1,0 +1,196 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.range{
+    --range-shdw: #3B82F6;
+}
+
+.checkbox:checked, .checkbox[checked="true"], .checkbox[aria-checked="true"] {
+    background-repeat: no-repeat;
+    animation: checkmark var(--animation-input, 0.2s) ease-out;
+    background-color: var(--color-2);
+    background-image: linear-gradient(-45deg, transparent 65%, #3B82F6 65.99%),
+      linear-gradient(45deg, transparent 75%, #3B82F6 75.99%),
+      linear-gradient(-45deg, #3B82F6 40%, transparent 40.99%),
+      linear-gradient(
+        45deg,
+        #3B82F6 30%,
+        white 30.99%,
+        white 40%,
+        transparent 40.99%
+      ),
+      linear-gradient(-45deg, white 50%, #3B82F6 50.99%);
+}
+
+
+:root {
+  --color-1: #7a5b43;
+  --color-2: #dfcebb;
+  --color-3: #ffffff;
+  --color-4: #4c6431;
+  --color-5: #7f302d;
+  --color-6: #FCB363;
+  --color-7: #F0E9DA;
+}
+
+
+body {
+  font-family: var(--font-bevnpro);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h7 {
+  font-family: var(--font-lodestone);
+  letter-spacing: 1px !important;
+}
+
+/* p {
+  font-family: var(--font-phudu);
+} */
+b {
+  letter-spacing: 1px !important;
+}
+
+span {
+  font-family: var(--font-lodestone);
+  letter-spacing: 1px;
+}
+
+/* Admin */
+
+.bg-white .bg {
+  background-color: var(--color-1);
+  height: 80px;
+  /* justify-content: center; */
+  align-items: center;
+}
+.bg-white .bg .logo {
+  margin-top: 5%;
+  
+  width: 300px;
+  height: 300px;   
+}
+
+.bg-white{
+  margin-bottom: 0;
+}
+.bg-white .bg .dropdown-content {
+  background-color: var(--color-5);
+  color: #ffffff;
+  font-family: var(--font-lodestone);
+  letter-spacing: 0.5px;
+}
+
+
+.admin-cate {
+  background-color: var(--color-2);
+  color: var(--color-5);
+  
+}
+
+.admin-cate:hover{
+  color: var(--color-6) !important;
+}
+
+.whole {
+  /* background-color: var(--color-7); */
+}
+
+.footer {
+  align-items: center;
+  justify-content: center;
+  padding: 32px 56px;
+  height: 100px;
+  background-color: var(--color-1);
+  font-family: var(--font-lodestone);
+  color: var(--color-2);
+  letter-spacing: 0.5px;
+}
+/* EndAdmin */
+/* Order */
+.component-bg {
+  /* background-color: var(--color-7); */
+}
+
+/* .xl\:ml-5{
+  margin-left: 0 !important;
+} */
+
+.head {
+
+  color: var(--color-5);
+
+}
+
+.body-table {
+  /* margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px; */
+  border: 3px solid var(--color-5);
+  /* border-radius: 5px; */
+}
+
+.table :where(.table-pin-cols tr td){
+  background-color: var(--fallback-b1,oklch(var(--b1)/var(--tw-bg-opacity)));
+}
+
+.button-crud {
+  background-color: var(--color-5);
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-family: var(--font-lodestone);
+  letter-spacing: 0.75px;
+  border: none;
+
+}
+
+.add-field{
+  color: var(--color-1);
+}
+
+.btn:hover{
+  background-color: var(--color-6);
+}
+
+/* EndOrder */
+/* Login */
+.login-head{
+  background-color: var(--color-2);
+}
+
+.login-head-word {
+  color: var(--color-1);
+}
+.font-VN{
+  font-family: var(--font-bevnpro);
+}
+
+
+/* EndLogin */
+
+html,body {
+  min-width: 100vh;
+}
+
+#__next {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; 
+  padding-bottom: 100px;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}

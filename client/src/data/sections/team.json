@@ -1,0 +1,118 @@
+{
+    "title": "VietGourmet nấu ăn cho bạn",
+    "description": "Chúng tôi cam kết cung cấp những món ăn tuyệt vời<br>để mang lại sự hài lòng cho bạn.",
+    "button": {
+        "link": "/about",
+        "label": "Tìm hiểu thêm về chúng tôi"
+    },
+    "items": [
+        {
+            "image": "/img/team/1.webp",
+            "name": "Paul Trueman",
+            "role": "Đầu bếp",
+            "social": [
+                {
+                    "icon": "fab fa-behance",
+                    "link": "https://behance.com",
+                    "title": "behance"
+                },
+                {
+                    "icon": "fab fa-dribbble",
+                    "link": "https://dribbble.com",
+                    "title": "dribbble"
+                },
+                {
+                    "icon": "fab fa-twitter",
+                    "link": "https://twitter.com",
+                    "title": "twitter"
+                },
+                {
+                    "icon": "fab fa-github",
+                    "link": "https://github.com",
+                    "title": "github"
+                }
+            ]
+        },
+        {
+            "image": "/img/team/2.webp",
+            "name": "Emma Newman",
+            "role": "Trợ lý đầu bếp",
+            "social": [
+                {
+                    "icon": "fab fa-behance",
+                    "link": "https://behance.com",
+                    "title": "behance"
+                },
+                {
+                    "icon": "fab fa-dribbble",
+                    "link": "https://dribbble.com",
+                    "title": "dribbble"
+                },
+                {
+                    "icon": "fab fa-twitter",
+                    "link": "https://twitter.com",
+                    "title": "twitter"
+                },
+                {
+                    "icon": "fab fa-github",
+                    "link": "https://github.com",
+                    "title": "github"
+                }
+            ]
+        },
+        {
+            "image": "/img/team/3.webp",
+            "name": "Oscar Oldman",
+            "role": "Đầu bếp",
+            "social": [
+                {
+                    "icon": "fab fa-behance",
+                    "link": "https://behance.com",
+                    "title": "behance"
+                },
+                {
+                    "icon": "fab fa-dribbble",
+                    "link": "https://dribbble.com",
+                    "title": "dribbble"
+                },
+                {
+                    "icon": "fab fa-twitter",
+                    "link": "https://twitter.com",
+                    "title": "twitter"
+                },
+                {
+                    "icon": "fab fa-github",
+                    "link": "https://github.com",
+                    "title": "github"
+                }
+            ]
+        },
+        {
+            "image": "/img/team/4.webp",
+            "name": "Ed Freeman",
+            "role": "Trợ lý đầu bếp",
+            "social": [
+                {
+                    "icon": "fab fa-behance",
+                    "link": "https://behance.com",
+                    "title": "behance"
+                },
+                {
+                    "icon": "fab fa-dribbble",
+                    "link": "https://dribbble.com",
+                    "title": "dribbble"
+                },
+                {
+                    "icon": "fab fa-twitter",
+                    "link": "https://twitter.com",
+                    "title": "twitter"
+                },
+                {
+                    "icon": "fab fa-github",
+                    "link": "https://github.com",
+                    "title": "github"
+                }
+            ]
+        }
+    ]
+}

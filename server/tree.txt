@@ -1,0 +1,79 @@
+Folder PATH listing
+Volume serial number is 163A-75DB
+C:.
+|   .env
+|   .env.example
+|   .gitignore
+|   app.js
+|   createAdmin.js
+|   package-lock.json
+|   package.json
+|   tree.txt
+|   
++---config
+|   \---VGM
+|           cloudinary.js
+|           
++---controllers
+|   \---VGM
+|           auth.controller.js
+|           category.controller.js
+|           combo.controller.js
+|           markdown.controller.js
+|           menu.controller.js
+|           order.controller.js
+|           post.controller.js
+|           product.controller.js
+|           reservation.controller.js
+|           shop.controller.js
+|           user.controller.js
+|           
++---helpers
+|       removeVietnameseTone.js
+|       
++---middleware
+|   \---VGM
+|           auth.middleware.js
+|           upload.middleware.js
+|           
++---models
+|   \---VGM
+|           Author.js
+|           Cart.js
+|           Category.js
+|           Gallery.js
+|           Order.js
+|           Post.js
+|           Product.js
+|           Reservation.js
+|           User.js
+|                  
++---routes
+|   \---VGM
+|           auth.routes.js
+|           category.routes.js
+|           markdown.routes.js
+|           menu.routes.js
+|           order.routes.js
+|           post.routes.js
+|           product.routes.js
+|           reservation.routes.js
+|           shop.routes.js
+|           user.routes.js
+|           
++---services
+|   \---VGM
+|           auth.service.js
+|           category.service.js
+|           markdown.service.js
+|           menu.service.js
+|           order.service.js
+|           post.service.js
+|           product.service.js
+|           reservation.service.js
+|           shop.service.js
+|           user.service.js
+|           
+\---utills
+        db.js
+        

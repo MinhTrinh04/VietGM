@@ -1,0 +1,28 @@
+{
+    "image": { 
+        "url": "/img/illustrations/interior.jpg",
+        "alt": "nội thất"
+    },
+    "number": {
+        "value": "05",
+        "label": "Năm kinh nghiệm"
+    },
+    "title": "Chúng tôi mang lại nhiều hơn <br>bạn mong đợi",
+    "items": [
+        {
+            "num": "01",
+            "title": "Chúng tôi nằm tại trung tâm thành phố",
+            "text": "Chúng tôi cung cấp dịch vụ thuận tiện với vị trí lý tưởng ở trung tâm thành phố."
+        },
+        {
+            "num": "02",
+            "title": "Nguyên liệu tươi, hữu cơ",
+            "text": "Chúng tôi cam kết sử dụng nguyên liệu tươi và hữu cơ trong tất cả các món ăn."
+        },
+        {
+            "num": "03",
+            "title": "Dịch vụ giao hàng nhanh chóng của chúng tôi",
+            "text": "Chúng tôi cung cấp dịch vụ giao hàng nhanh chóng và tiện lợi để phục vụ bạn."
+        }
+    ]
+}

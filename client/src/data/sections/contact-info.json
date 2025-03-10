@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "num": "01",
+            "title": "Chào mừng",
+            "text": "Số 1 Đại Cồ Việt"
+        },
+        {
+            "num": "02",
+            "title": "Gọi cho chúng tôi",
+            "text": "+0999.888.777"
+        },
+        {
+            "num": "03",
+            "title": "Gửi thư cho chúng tôi",
+            "text": "Vietgourmet@mail.com"
+        }
+    ]
+}

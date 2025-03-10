@@ -1,0 +1,40 @@
+{
+    "title": "Hôm nay bạn <span>thích gì?</span>",
+    "description": "Chúng tôi có nhiều lựa chọn cho bạn<br>để thưởng thức và khám phá.",
+    "button": {
+        "link": "/shop",
+        "label": "Đi mua sắm ngay"
+    },
+    "items": [
+        {
+            "image": "/img/categories/Pho.png",
+            "title": "Món khai vị",
+            "text": "Chúng tôi cung cấp nhiều món khai vị hấp dẫn.",
+            "link": "/appetizer"
+        },
+        {
+            "image": "/img/categories/Pho.png",
+            "title": "Món chính",
+            "text": "Khám phá các món chính ngon miệng tại đây.",
+            "link": "/main-dish"
+        },
+        {
+            "image": "/img/categories/Pho.png",
+            "title": "Đồ uống",
+            "text": "Thưởng thức các loại đồ uống tươi mát.",
+            "link": "/drinks"
+        },
+        {
+            "image": "/img/categories/Pho.png",
+            "title": "Món tráng miệng",
+            "text": "Đừng bỏ lỡ các món tráng miệng tuyệt vời.",
+            "link": "/dessert"
+        },
+        {
+            "image": "/img/categories/Pho.png",
+            "title": "Set combo",
+            "text": "Chinh phục ẩm thực Việt Nam chỉ với một nút bấm",
+            "link": "/set-combo"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "title": "Đánh giá về chúng tôi",
+    "description": "Chúng tôi luôn nỗ lực để mang đến sự hài lòng cho khách hàng. Hãy xem những gì mọi người nói về chúng tôi.",
+    "button": {
+        "link": "/reviews",
+        "icon": "/img/ui/icons/dialog.svg",
+        "label": "Tất cả đánh giá"
+    },
+    "items": [
+        {
+            "title": "Rất ngon",
+            "name": "Emma Newman",
+            "rating": 5,
+            "image": "/img/faces/1.png",
+            "text": "Tôi rất thích món ăn ở đây. Mọi thứ đều tuyệt vời, từ hương vị đến chất lượng phục vụ!"
+        },
+        {
+            "title": "Tôi ăn trưa ở đây mỗi ngày",
+            "name": "Paul Trueman",
+            "rating": 5,
+            "image": "/img/faces/2.png",
+            "text": "Món ăn luôn tươi ngon và phục vụ nhanh chóng. Tôi cực kỳ hài lòng với dịch vụ nơi này!"
+        },
+        {
+            "title": "Dịch vụ tuyệt vời",
+            "name": "Gordon Freeman",
+            "rating": 5,
+            "image": "/img/faces/3.jpg",
+            "text": "Đội ngũ phục vụ rất chuyên nghiệp và thân thiện. Tôi chắc chắn sẽ quay lại!"
+        },
+        {
+            "title": "Starbelly thật tuyệt vời!",
+            "name": "Henry Cavill",
+            "rating": 5,
+            "image": "/img/faces/4.jpg",
+            "text": "Một trải nghiệm tuyệt vời từ đầu đến cuối. Tôi rất thích không khí nơi đây!"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "Câu chuyện về VietGourmet",
+    "description": "VietGourmet ra đời từ tình yêu và niềm đam mê với hương vị cà phê, trà và đặc sản Việt Nam.  Chúng tôi mong muốn chia sẻ những câu chuyện này, kết nối người tiêu dùng với những giá trị đích thực và tạo ra những trải nghiệm thưởng thức trọn vẹn.",
+    "image": {
+    "url": "/img/gallery/2.jpg",
+    "alt": "image"
+    },
+    "number": {
+    "value": "17",
+    "label": "Năm Kinh nghiệm"
+    },
+    "signature": "/img/ui/signature.png"
+    }

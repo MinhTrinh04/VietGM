@@ -1,0 +1,16 @@
+{
+    "title": "Tải ứng dụng di động của chúng tôi.",
+    "subtitle": "Chúng tôi cung cấp nhiều tính năng hữu ích<br>để bạn dễ dàng đặt hàng và quản lý.",
+    "image": {
+        "url": "/img/illustrations/image.png",
+        "alt": "điện thoại"
+    },
+    "link1": {
+        "url": "https://google.com/",
+        "title": "Chợ ứng dụng Google Play"
+    },
+    "link2": {
+        "url": "https://apple.com/",
+        "title": "App Store"
+    }
+}

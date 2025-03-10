@@ -1,0 +1,19 @@
+{
+    "image": {
+        "url": "/img/illustrations/girl.png",
+        "alt": "cô gái"
+    },
+    "subtitle": "Chào, người bạn mới!",
+    "title": "VietGourmet, <br> đậm đà hương vị Việt",
+    "description": "Chúng tôi cung cấp trải nghiệm ẩm thực độc đáo<br>để bạn thưởng thức từng khoảnh khắc.",
+    "button1": {
+        "link": "/menu",
+        "icon": "/img/ui/icons/menu.svg",
+        "label": "Thực đơn của chúng tôi"
+    },
+    "button2": {
+        "link": "/about",
+        "icon": "/img/ui/icons/arrow.svg",
+        "label": "Về chúng tôi"
+    }
+}

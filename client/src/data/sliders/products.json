@@ -1,0 +1,9 @@
+{
+    "title": "Các món ăn phổ biến nhất",
+    "description": "Chúng tôi cung cấp những món ăn ngon nhất<br>để đáp ứng nhu cầu của bạn.",
+    "button": {
+        "link": "/menu",
+        "icon": "/img/ui/icons/menu.svg",
+        "label": "Thực đơn đầy đủ"
+    }
+}

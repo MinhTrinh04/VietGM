@@ -1,0 +1,13 @@
+{
+    "title": "VietGourmet sẽ kể bạn nghe bằng hương vị",
+    "subtitle": "Video quảng cáo",
+    "description": "Khám phá hành trình hương vị Việt Nam độc đáo và ấn tượng, nơi VietGourmet chăm chút từng khoảnh khắc cho bạn.",
+    "button": {
+        "label": "Video quảng cáo",
+        "link": "https://www.youtube.com/watch?v=F3zw1Gvn4Mk"
+    },
+    "image": {
+        "url": "/img/illustrations/interior-2.png",
+        "alt": "nội thất"
+    }
+}

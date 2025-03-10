@@ -1,0 +1,18 @@
+{
+    "title": "<sup>-</sup><span class='sb-title-lg'>50</span><sup>%</sup> Giảm giá <br>cho tất cả* burger!",
+    "description": "*Chúng tôi có nhiều loại burger đa dạng<br>để bạn lựa chọn và thưởng thức.",
+    "button1": {
+        "label": "Nhận ngay!",
+        "icon": "/img/ui/icons/cart.svg",
+        "link": "/shop"
+    },
+    "button2": {
+        "label": "Thực đơn",
+        "icon": "/img/ui/icons/menu.svg",
+        "link": "/menu"
+    },
+    "image": {
+        "url": "/img/illustrations/burger-2.png",
+        "alt": "burger"
+    }
+}

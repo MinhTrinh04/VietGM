@@ -1,0 +1,60 @@
+{
+    "items": [
+        {
+            "title": "Very tasty",
+            "name": "Emma Newman",
+            "rating": 5,
+            "image": "/img/faces/1.png",
+            "text": ""
+        },
+        {
+            "title": "I have lunch here every day",
+            "name": "Paul Trueman",
+            "rating": 5,
+            "image": "/img/faces/2.png",
+            "text": ""
+        },
+        {
+            "title": "Great service",
+            "name": "Viktoria Freeman",
+            "rating": 5,
+            "image": "/img/faces/3.jpg",
+            "text": ""
+        },
+        {
+            "title": "Starbelly is amazing!",
+            "name": "Audrey Oldman",
+            "rating": 5,
+            "image": "/img/faces/4.jpg",
+            "text": ""
+        },
+        {
+            "title": "Very tasty",
+            "name": "Emma Newman",
+            "rating": 4.5,
+            "image": "/img/faces/1.png",
+            "text": ""
+        },
+        {
+            "title": "I have lunch here every day",
+            "name": "Paul Trueman",
+            "rating": 5,
+            "image": "/img/faces/2.png",
+            "text": ""
+        },
+        {
+            "title": "Great service",
+            "name": "Viktoria Freeman",
+            "rating": 5,
+            "image": "/img/faces/3.jpg",
+            "text": ""
+        },
+        {
+            "title": "Starbelly is amazing!",
+            "name": "Audrey Oldman",
+            "rating": 5,
+            "image": "/img/faces/4.jpg",
+            "text": ""
+        }
+    ]
+}

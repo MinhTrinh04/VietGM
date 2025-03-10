@@ -1,0 +1,50 @@
+{
+  "total": 5,
+  "items": [
+    {
+      "title": "Bún chả cuốn",
+      "image": "/img/menu/Food/buncha.jpg",
+      "price": "80K",
+      "currency": "VNĐ",
+      "rating": 5,
+      "text": "Bún chả cuốn với sự kết hợp đầy đủ của các món thịt, rau cộng thêm nước chấm đậm đà hương vị truyền thống.",
+      "quantity": 1
+    },
+    {
+      "title": "Bún bò Huế",
+      "image": "/img/menu/Food/bunbohue.jfif",
+      "price": "75K",
+      "currency": "VNĐ",
+      "rating": 5,
+      "text": "Bún bò Huế với sợi bún to, dai, nước dùng đậm đà, hòa quyện vị sả và ớt cay nồng, thịt bò hầm nhừ, giò heo và chả cua ăn kèm rau sống tươi mát.",
+      "quantity": 1
+    },
+    {
+      "title": "Bánh xèo",
+      "image": "/img/menu/Food/banh-xeo.jfif",
+      "price": "50K",
+      "currency": "VNĐ",
+      "rating": 5,
+      "text": "Bánh xèo giòn tan, nhân tôm, thịt heo và giá đỗ, ăn kèm rau sống và nước mắm chua ngọt, mang đến hương vị thơm ngon khó cưỡng.",
+      "quantity": 1
+    },
+    {
+      "title": "Canh chua cá lóc",
+      "image": "/img/menu/Food/canhchua.jfif",
+      "price": "90K",
+      "currency": "VNĐ",
+      "rating": 5,
+      "text": "Canh chua cá lóc nấu với dọc mùng, cà chua, me chua, tạo nên hương vị thanh mát, chua ngọt, kết hợp cùng cá lóc tươi ngọt và các loại rau thơm.",
+      "quantity": 1
+    },
+    {
+      "title": "Bánh Flan",
+      "image": "/img/menu/Dessert/banhflan.jfif",
+      "price": "50K",
+      "currency": "VNĐ",
+      "rating": 5,
+      "text": "Bánh flan mịn màng với vị ngọt vừa phải, béo ngậy từ trứng và sữa, ăn kèm với cà phê đắng nhẹ và đá bào mát lạnh.",
+      "quantity": 1
+    }
+  ]
+}

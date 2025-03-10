@@ -1,0 +1,127 @@
+{
+    "settings": {
+        "siteName": "Vietgourmet",
+        "siteDescription": "Vietgourmet",
+        "formspreeURL": "https://formspree.io/f/",
+        "mapbox": {
+            "AccessToken": "pk.eyJ1Ijoidml0ZWdvZCIsImEiOiJjbTF1em4zMTgwNjY5Mmpxd2xmcTU3c2pmIn0.PlezCRZdGuZ8YOFHLhTH2Q",
+            "style": "mapbox://styles/mapbox/light-v11",
+            "zoom": 5,
+            "long": 105.8,
+            "lat": 21.02
+        },
+        "perPage": 6
+    },
+    "header": {
+        "logo": {
+            "image": "/img/ui/logo.png",
+            "alt": "Logo"
+        },
+        "menu": [
+            {
+                "label": "Trang chủ",
+                "link": "/",
+                "children": []
+            },
+            {
+                "label": "Giới thiệu",
+                "link": "/about",
+                "children": [
+                    {
+                        "label": "Về chúng tôi",
+                        "link": "/about"
+                    },
+                    {
+                        "label": "Thư viện ảnh",
+                        "link": "/gallery"
+                    }
+                ]
+            },
+            {
+                "label": "Thực đơn",
+                "link": "/shop",
+                "children": [
+                    {
+                        "label": "Tại quán",
+                        "link": "/menu"
+                    },
+                    {
+                        "label": "Mang về",
+                        "link": "/shop"
+                    },
+                    {
+                        "label": "Tra cứu đơn hàng",
+                        "link": "http://localhost:3002/admin/check"
+                    }
+                ]
+            },
+            {
+                "label": "Blog",
+                "link": "/blog",
+                "children": 0
+            },
+            {
+                "label": "Đặt bàn",
+                "link": "/reservation",
+                "children": 0
+            }
+        ]
+    },
+    "footer": {
+        "copy": "© 2024 Vietgourmet. All rights reserved."
+    },
+    "social": [
+        {
+            "link": "https://twitter.com",
+            "title": "Twitter",
+            "icon": "fab fa-twitter"
+        },
+        {
+            "link": "https://instagram.com",
+            "title": "Instagram",
+            "icon": "fab fa-instagram"
+        },
+        {
+            "link": "https://facebook.com",
+            "title": "Facebook",
+            "icon": "fab fa-facebook-f"
+        },
+        {
+            "link": "https://youtube.com",
+            "title": "Youtube",
+            "icon": "fab fa-youtube"
+        }
+    ],
+    "instagram": [
+        {
+            "image": "/img/instagram/1.jpg",
+            "title": "Image #1",
+            "link": "https://instagram.com/"
+        },
+        {
+            "image": "/img/instagram/2.jpg",
+            "title": "Image #2",
+            "link": "https://instagram.com/"
+        },
+        {
+            "image": "/img/instagram/3.jpg",
+            "title": "Image #3",
+            "link": "https://instagram.com/"
+        },
+        {
+            "image": "/img/instagram/4.jpg",
+            "title": "Image #3",
+            "link": "https://instagram.com/"
+        },
+        {
+            "image": "/img/instagram/5.jpg",
+            "title": "Image #5",
+            "link": "https://instagram.com/"
+        },
+        {
+            "image": "/img/instagram/6.jpg",
+            "title": "Image #6",
+            "link": "https://instagram.com/"
+        }
+    ]
+}

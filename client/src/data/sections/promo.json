@@ -1,0 +1,30 @@
+{
+    "banner1": {
+        "image": {
+            "url": "/img/illustrations/pho.png",
+            "alt": "pho"
+        },
+        "title_before": "-",
+        "title": "50",
+        "title_after": "%",
+        "subtitle": "Giảm giá cho tất cả món chính!",
+        "text": "Chương trình khuyến mãi hấp dẫn.",
+        "button": {
+            "link": "/shop",
+            "label": "Nhận ngay"
+        }
+    },
+    "banner2": {
+        "image": {
+            "url": "/img/illustrations/cafe.png",
+            "alt": "cốc"
+        },
+        "title": "Miễn phí!",
+        "subtitle": "Ghé VietGourmet và nhận cà phê của bạn",
+        "text": "Chương trình khuyến mãi hấp dẫn.",
+        "button": {
+            "link": "/contact",
+            "label": "Nhận ngay"
+        }
+    }
+}

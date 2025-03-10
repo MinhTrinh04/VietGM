@@ -1,0 +1,29 @@
+{
+    "items": [
+        {
+            "num": "01",
+            "title": "Chúng tôi ở trung tâm thành phố",
+            "text": "Chúng tôi cung cấp dịch vụ thuận tiện với vị trí lý tưởng tại trung tâm thành phố."
+        },
+        {
+            "num": "02",
+            "title": "Nguyên liệu tươi từ các trang trại",
+            "text": "Chúng tôi cam kết sử dụng nguyên liệu tươi ngon, chất lượng từ các trang trại hữu cơ."
+        },
+        {
+            "num": "03",
+            "title": "Dịch vụ giao hàng nhanh chóng",
+            "text": "Chúng tôi đảm bảo giao hàng nhanh chóng, tối đa chỉ trong 30 phút."
+        },
+        {
+            "num": "04",
+            "title": "Đầu bếp chuyên nghiệp, kinh nghiệm",
+            "text": "Đội ngũ đầu bếp của chúng tôi có nhiều năm kinh nghiệm và chuyên môn cao."
+        },
+        {
+            "num": "05",
+            "title": "Tiêu chuẩn phục vụ cao nhất",
+            "text": "Chúng tôi cam kết mang đến dịch vụ phục vụ đạt tiêu chuẩn cao nhất cho khách hàng."
+        }
+    ]
+}
